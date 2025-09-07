@@ -1,1 +1,1 @@
-On the day 2 mo making my Buisness card today i used css for adding some making it attractive use @keyframes for changing the backgound rapidly and also use a theme button to have a dark theme
+On the day 2 mo making my Buisness card today i used css for adding more elementsand  making it attractive I used @keyframes for changing the backgound rapidly and also used a theme button to have a dark theme
